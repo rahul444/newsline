@@ -8,8 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/rahul444/newsline/"
+    "url": "https://github.com/rahul444/newsline/"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.78.0"
+  }
 }
